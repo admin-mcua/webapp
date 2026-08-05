@@ -9,8 +9,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "webapp-production",
-      "database_id": "local-placeholder-id"
+      "database_name": "ngl-webapp-production",
+      "database_id": "0465f019-6708-4784-b9d0-4f8f349b2517"
     }
   ]
 }
